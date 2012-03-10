@@ -3,3 +3,5 @@ vendor
 composer.lock
 phpspec-composer.php
 composer.phar
+app/logs/*
+app/cache/*
