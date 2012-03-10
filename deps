@@ -72,3 +72,6 @@
     git=http://github.com/symfony/DoctrineMongoDBBundle.git
     target=/bundles/Symfony/Bundle/DoctrineMongoDBBundle
     version=v2.0.1
+
+[faker]
+    git=https://github.com/bobthecow/Faker.git

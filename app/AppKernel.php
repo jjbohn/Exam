@@ -21,6 +21,7 @@ class AppKernel extends Kernel
             new Sensio\Bundle\DistributionBundle\SensioDistributionBundle(),
             new Sensio\Bundle\GeneratorBundle\SensioGeneratorBundle(),
             new Symfony\Bundle\DoctrineMongoDBBundle\DoctrineMongoDBBundle(),
+            new Jbohn\Bundle\ExamBundle\JbohnExamBundle(),
         );
     }
 
